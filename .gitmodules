@@ -22,3 +22,6 @@
 [submodule "k8-rebuild-folder-to-folder"]
 	path = k8-rebuild-folder-to-folder
 	url = https://github.com/k8-proxy/k8-rebuild-folder-to-folder.git
+[submodule "k8-icap-cloud-formation"]
+	path = k8-icap-cloud-formation
+	url = https://github.com/k8-proxy/k8-icap-cloud-formation.git
